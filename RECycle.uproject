@@ -3,12 +3,19 @@
 	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PhysXVehicles",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"Android",
 		"Linux",
 		"Mac",
 		"Windows",
 		"WindowsNoEditor",
-		"LinuxNoEditor"
+		"LinuxNoEditor",
+		"IOS"
 	]
 }
