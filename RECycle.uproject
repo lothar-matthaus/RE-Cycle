@@ -1,14 +1,8 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "PhysXVehicles",
-			"Enabled": true
-		}
-	],
 	"TargetPlatforms": [
 		"Android",
 		"Linux",
