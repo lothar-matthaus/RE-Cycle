@@ -3,6 +3,12 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Water",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"Android",
 		"Linux",
